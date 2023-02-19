@@ -6,7 +6,8 @@ Also a 🕹 Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker
 
 Skills: HTML, Python, GNU/Linux, Bash
 
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning for Certified AWS Certified Cloud Practitioner Exam thriving to reach the Cloud Solutions Architect next.
+
 
 
 
