@@ -3,11 +3,12 @@
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
 
-Also a 🕹 Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker
+Also a 🕹 Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker.
 
 Skills: HTML, Python, GNU/Linux, Bash
 
-- 🌱 I’m currently learning for the Certified AWS Certified Cloud Practitioner Exam thriving to reach the AWS Certified Solutions Architect - Associate next.
+- 🌱  I’m currently learning for the Certified AWS Certified Cloud Practitioner Exam 
+      thriving to reach the AWS Certified Solutions Architect - Associate next.
 
 
 
