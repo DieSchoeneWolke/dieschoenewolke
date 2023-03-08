@@ -3,7 +3,7 @@
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
 
-Also a 🕹 PC Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker.
+Also a 🕹 PC Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker and of course a proud Arch Linux and Debian User.
 
 Skills: HTML, Python, GNU/Linux, Bash
 
