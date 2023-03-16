@@ -5,7 +5,7 @@ I've always been interested in technology and computer have always been a fun ho
 
 Also a 🕹 PC Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker and of course a proud Arch Linux and Debian User.
 
-Skills: HTML, Python, GNU/Linux, Bash
+Skills: AWS, HTML, GNU/Linux, Hardware Support, Car Repairs 😅
 
 - 🌱  I’m currently learning for the AWS Certified Cloud Practitioner Exam 
       thriving to reach the AWS Certified Solutions Architect - Associate next.
