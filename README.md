@@ -7,10 +7,6 @@ Also a 🕹 PC Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker and of course a pr
 
 Skills: AWS, HTML, GNU/Linux, Hardware Support, Car Repairs 😅
 
-- 🌱  I’m currently learning for the AWS Certified Cloud Practitioner Exam 
-      thriving to reach the AWS Certified Solutions Architect - Associate next.
-
-
 
 
 
