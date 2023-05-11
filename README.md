@@ -10,7 +10,7 @@ I've always been interested in technology and computer have always been a fun ho
 |     4| HTML                       |
 
 
-| Issued    |  Valid| Certificate                                         |
+| Issued    |  Valid| Certificates                                        |
 |----------:|------:|-----------------------------------------------------|
 |     APR 23| APR 26| AWS Certified Solutions Architect - Associate       | 
 |     APR 23| APR 26| AWS Certified Cloud Practioner                      |
