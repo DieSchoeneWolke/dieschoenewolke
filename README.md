@@ -4,7 +4,7 @@ I've always been interested in technology and computer have always been a fun ho
 
 | Rank | Skills                     |
 |-----:|----------------------------|
-|     1| AWS Coreservices           |
+|     1| AWS Core Services          |
 |     2| Linux Administration       |
 |     3| Docker                     |
 |     4| HTML                       |
