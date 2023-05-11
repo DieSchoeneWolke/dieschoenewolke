@@ -2,11 +2,12 @@
 ### I am an AWS re/Start student at the Digital Carreer Institute in Germany.
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
-### Skills: 
-•	AWS Core Services
-•	Linux Administration
-•	Docker
-•	HTML
+| Rank | Skills                     |
+|-----:|----------------------------|
+|     1| AWS Coreservices           |
+|     2| Linux Administration       |
+|     3| Docker                     |
+|     4| HTML                       |
 
 ### Certificates:
 • AWS Certified Solution Architect - Associate 
