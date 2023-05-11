@@ -9,9 +9,8 @@ I've always been interested in technology and computer have always been a fun ho
 |     3| Docker                     |
 |     4| HTML                       |
 
-### Certificates:
-• AWS Certified Solution Architect - Associate 
-  APR 2023 - APR 2026
 
-• AWS Certified - Cloud Practioner
-  MAR 2023 - APR 2026
+| Issued    |  Valid| Certificate                                         |
+|----------:|------:|-----------------------------------------------------|
+|     APR 23| APR 26| AWS Certified Solutions Architect - Associate       | 
+|     APR 23| APR 26| AWS Certified Cloud Practioner                      |
