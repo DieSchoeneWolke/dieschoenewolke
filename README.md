@@ -1,12 +1,16 @@
 ### Hi there 👋, my name is Jan.
-#### I am a former car mechanic and currently a student at the Digital Carreer Institute in Germany.
+### I am an AWS re/Start student at the Digital Carreer Institute in Germany.
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
+### Skills: 
+•	AWS Core Services
+•	Linux Administration
+•	Docker
+•	HTML
 
-Also a 🕹 PC Gamer 🤘 Metalhead 🎣 Fisherman 🏍 Biker and of course a proud NixOS and Debian User.
+### Certificates:
+• AWS Certified Solution Architect - Associate 
+  APR 2023 - APR 2026
 
-Skills: AWS, HTML, GNU/Linux, Hardware Support, Car Repairs 😅
-
-
-
-
+• AWS Certified - Cloud Practioner
+  MAR 2023 - APR 2026
