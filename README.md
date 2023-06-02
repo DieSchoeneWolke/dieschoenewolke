@@ -5,10 +5,18 @@ I've always been interested in technology and computer have always been a fun ho
 | Rank | Skills                     |
 |-----:|----------------------------|
 |     1| AWS Core Services          |
-|     2| Linux Administration       |
-|     3| Docker                     |
-|     4| HTML                       |
-
+|     2| Windows Administration     |
+|     3| GNU/Linux Administration   |
+|     4| Netzwerke                  |
+|     5| IT-Security                |
+|     6| Docker                     |
+|     7| Git                        |
+|     8| Draw.io                    |
+|     9| Terraform                  |
+|    10| Scrum                      |
+|    11| Ansible                    |
+|    12| Vagrant                    |
+|    13| Python                     |
 
 | Issued    |  Valid| Certificates                                        |
 |----------:|------:|-----------------------------------------------------|
