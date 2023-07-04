@@ -1,6 +1,36 @@
 ### Hi there 👋, my name is Jan.
 ### I am an AWS re/Start student at the Digital Carreer Institute in Germany.
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osnabrück"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.0472, 52.2799]
+      }
+    }
+  ]
+}
+
+
+```
+
+
 I've always been interested in technology and computer have always been a fun hobby of mine. 
+
+### Currently working on:
+[Udemy 100 Days of Code Python](https://github.com/DieSchoeneWolke/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
+
+[AWS restart canvas for solutions architects as Terraform Templates](https://github.com/DieSchoeneWolke/terraform-training)
+
+DieSchoeneWolke.com Nix OS Flake (private until finished)
+
 
 | Rank | Skills                     |
 |-----:|----------------------------|
