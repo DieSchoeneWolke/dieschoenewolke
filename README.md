@@ -36,7 +36,7 @@ DieSchoeneWolke.com Nix OS Flake (private until finished)
 |     1| AWS Core Services          |
 |     2| Windows Administration     |
 |     3| GNU/Linux Administration   |
-|     4| Netzwerke                  |
+|     4| Networking                 |
 |     5| IT-Security                |
 |     6| Docker                     |
 |     7| Git                        |
