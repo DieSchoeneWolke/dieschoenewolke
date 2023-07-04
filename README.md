@@ -8,7 +8,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Osnabrück"
+        "name": "Bramsche"
       },
       "geometry": {
         "type": "Point",
