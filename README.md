@@ -38,12 +38,16 @@ DieSchoeneWolke.com automated Nix OS Flake for my servers. (private repo until f
 - [X] Autologin
 - [X] Docker
 - [X] NTFS3g
+- [ ] SMB
+- [ ] NFS
 - [X] Duplicati
 - [X] Timeshift
 - [X] Rustdesk
 - [ ] Clean up `docker-compose.yml` files
 - [ ] Merge `docker-compose.yml`
 - [ ] Merge `.env`
+
+
 
 | Rank | Skills                     |
 |-----:|----------------------------|
