@@ -35,7 +35,7 @@ DieSchoeneWolke.com automated Nix OS Flake for my servers. (private repo until f
 - [X] VPN
 - [X] SSH
 - [X] Desktop (Cinnamon)
-- [ ] Autologin
+- [X] Autologin
 - [X] Docker
 - [X] NTFS3g
 - [X] Duplicati
