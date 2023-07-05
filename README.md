@@ -54,16 +54,16 @@ I've always been interested in technology and computer have always been a fun ho
 |     1| AWS Core Services          |
 |     2| Windows Administration     |
 |     3| GNU/Linux Administration   |
-|     4| Networking                 |
-|     5| IT-Security                |
-|     6| Docker                     |
-|     7| Git                        |
-|     8| Draw.io                    |
-|     9| Terraform                  |
-|    10| Scrum                      |
-|    11| Ansible                    |
-|    12| Vagrant                    |
-|    13| Python                     |
+|     4| Docker                     |
+|     5| Git                        |
+|     6| Draw.io                    |
+|     7| Terraform                  |
+|     8| Scrum                      |
+|     9| Ansible                    |
+|    10| Vagrant                    |
+|    11| Python                     |
+
+
 
 | Issued    |  Valid| Certificates                                        |
 |----------:|------:|-----------------------------------------------------|
