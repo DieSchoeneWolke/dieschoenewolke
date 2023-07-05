@@ -28,8 +28,22 @@ I've always been interested in technology and computer have always been a fun ho
 
 [AWS restart canvas for solutions architects as Terraform Templates](https://github.com/DieSchoeneWolke/terraform-training)
 
-DieSchoeneWolke.com Nix OS Flake (private until finished)
-
+DieSchoeneWolke.com automated Nix OS Flake for my servers. (private repo until finished)
+- [X] Bootloader (Systemd-boot)
+- [X] Locals (Language: English, Kblayout: German) 
+- [ ] Wi-Fi
+- [X] VPN
+- [X] SSH
+- [X] Desktop (Cinnamon)
+- [ ] Autologin
+- [X] Docker
+- [X] NTFS3g
+- [X] Duplicati
+- [X] Timeshift
+- [X] Rustdesk
+- [ ] Clean up `docker-compose.yml` files
+- [ ] Merge `docker-compose.yml`
+- [ ] Merge `.env`
 
 | Rank | Skills                     |
 |-----:|----------------------------|
