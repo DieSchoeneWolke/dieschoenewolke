@@ -36,6 +36,7 @@ I've always been interested in technology and computer have always been a fun ho
 - [X] SSH
 - [X] Desktop (Cinnamon)
 - [X] Autologin
+- [X] Fish
 - [X] Docker
 - [X] NTFS3g
 - [ ] SMB
