@@ -28,6 +28,8 @@ I've always been interested in technology and computer have always been a fun ho
 
 [AWS restart canvas for solutions architects as Terraform Templates](https://github.com/DieSchoeneWolke/terraform-training)
 
+[DieSchoeneWolke.com New Frontpage with Blog](https://github.com/DieSchoeneWolke/DieSchoeneWolkeBlog)
+
 [DieSchoeneWolke.com automated Nix OS Flake for my servers.](https://github.com/DieSchoeneWolke/DieSchoeneWolkeNIXOS) (private repo until finished)
 - [X] Bootloader (Systemd-boot)
 - [X] Locals (Language: English, Kblayout: German) 
