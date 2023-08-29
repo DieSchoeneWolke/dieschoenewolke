@@ -39,7 +39,7 @@ I've always been interested in technology and computer have always been a fun ho
 - [X] Autologin
 - [X] Fish
 - [X] Docker
-- [ ] ZFS
+- [ ] OpenZFS
 - [ ] SMB
 - [ ] NFS
 - [X] Duplicati
