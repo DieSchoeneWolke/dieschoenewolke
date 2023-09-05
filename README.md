@@ -44,7 +44,6 @@ I've always been interested in technology and computer have always been a fun ho
 - [ ] NFS
 - [X] Duplicati
 - [X] Timeshift
-- [X] Rustdesk
 - [ ] Clean up `docker-compose.yml` files
 - [ ] Merge `docker-compose.yml`
 - [ ] Merge `.env`
