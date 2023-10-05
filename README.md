@@ -24,8 +24,6 @@
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
 ### Currently working on:
-[Udemy 100 Days of Code Python](https://github.com/DieSchoeneWolke/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
-
 [AWS restart canvas for solutions architects as Terraform Templates](https://github.com/DieSchoeneWolke/terraform-training)
 
 [DieSchoeneWolke.com New Frontpage with Blog](https://github.com/DieSchoeneWolke/DieSchoeneWolkeBlog)
