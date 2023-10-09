@@ -28,24 +28,6 @@ I've always been interested in technology and computer have always been a fun ho
 
 [DieSchoeneWolke.com New Frontpage with Blog](https://github.com/DieSchoeneWolke/DieSchoeneWolkeBlog)
 
-[DieSchoeneWolke.com automated Nix OS Flake for my servers.](https://github.com/DieSchoeneWolke/DieSchoeneWolkeNIXOS) (private repo until finished)
-- [X] Bootloader (Systemd-boot)
-- [X] Locals (Language: English, Kblayout: German) 
-- [ ] Wi-Fi
-- [X] VPN
-- [X] SSH
-- [X] Autologin
-- [X] Fish
-- [X] Docker
-- [ ] OpenZFS
-- [ ] SMB
-- [ ] NFS
-- [X] Duplicati
-- [X] Timeshift
-- [ ] Clean up `docker-compose.yml` files
-- [ ] Merge `docker-compose.yml`
-- [ ] Merge `.env`
-
 
 
 | Rank | Skills                     |
