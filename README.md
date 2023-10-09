@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Jan.
-### I am an AWS re/Start student at the Digital Carreer Institute in Germany.
 
 ```geojson
 {
@@ -19,14 +18,10 @@
 }
 
 ```
-
-
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
 ### Currently working on:
-[AWS restart canvas for solutions architects as Terraform Templates](https://github.com/DieSchoeneWolke/terraform-training)
-
-[DieSchoeneWolke.com New Frontpage with Blog](https://github.com/DieSchoeneWolke/DieSchoeneWolkeBlog)
+DieSchoeneWolke.com New Frontpage with Blog
 
 
 
@@ -37,13 +32,11 @@ I've always been interested in technology and computer have always been a fun ho
 |     3| GNU/Linux Administration   |
 |     4| Docker                     |
 |     5| Git                        |
-|     6| Draw.io                    |
+|     6| Javascript                 |
 |     7| Terraform                  |
-|     8| Scrum                      |
+|     8| Python                     |
 |     9| Ansible                    |
 |    10| Vagrant                    |
-|    11| Python                     |
-
 
 
 | Issued    |  Valid| Certificates                                        |
