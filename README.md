@@ -1,26 +1,5 @@
 ### Hi there 👋, my name is Jan.
-<details>
-<summary>Location</summary>
-  
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bramsche"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.95735, 52.39133]
-      }
-    }
-  ]
-}
 
-```
-</details>
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
 | I'm familiar with                 |
