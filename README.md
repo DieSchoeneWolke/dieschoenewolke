@@ -23,9 +23,6 @@
 </details>
 I've always been interested in technology and computer have always been a fun hobby of mine. 
 
-### Currently working on:
-DieSchoeneWolke.com New Frontpage with Blog
-
 | I'm familiar with                 |
 |-----------------------------------|
 | AWS                               |
